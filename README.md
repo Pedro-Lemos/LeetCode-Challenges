@@ -22,6 +22,7 @@ Desde minha inserção na área de tecnologia, o que mais verificamos é que exi
 # 🎉 Desafios concluídos / Done:
 
 - 🟢 [1672. Cliente com maior saldo - Richest Customer Wealth](./1672.%20Cliente%20com%20maior%20saldo%20-%20Richest%20Customer%20Wealth/Description.md)
+- 🟢 [1342. Contar passos ate zero - Number of Steps to Reduce a Number to Zero](1342.%20Contar%20passos%20ate%20zero%20-%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Description.md)
 
 # 🛠️ Próximo desafio / Next challenge:
 
