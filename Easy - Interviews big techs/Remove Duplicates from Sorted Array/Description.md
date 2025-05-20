@@ -8,8 +8,8 @@ E garantir que os primeiros k elementos do array contenham esses valores únicos
 ## Approach
 Essa técnica usa dois índices:
 
-i: Aponta para a posição onde vamos colocar o próximo valor único.
-j: Percorre o array do início ao fim, comparando com nums[i].
+- i: Aponta para a posição onde vamos colocar o próximo valor único.
+- j: Percorre o array do início ao fim, comparando com nums[i].
 
 🔄 Lógica:
 1. Começamos com i = 0 (primeiro valor é sempre único).
